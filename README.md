@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning embedded Rust
+- 🌱 Currently learning NixOS
 - 🎓 Studying Computer Science at NTNU Trondheim
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=thomsen85&&style=flat-square)  
